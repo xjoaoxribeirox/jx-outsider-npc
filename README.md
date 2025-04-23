@@ -105,6 +105,11 @@ Config.ModelTravelNPC = {
     "u_m_o_oldcajun_01"
 }
 
+Config.PurchasableItems = {
+    ['cacos_vidro'] = 1,      -- $1 per unit
+    ['brinco_rubi'] = 2,      -- $2 per unit
+    ['brinco_circular'] = 2,  -- $2 per unit
+}
 ```
 
 ## Usage
